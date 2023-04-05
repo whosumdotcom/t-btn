@@ -1,0 +1,41 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T21:13:50Z",
+  "IdClaims": [
+    {
+      "Claim": "t:btn"
+    },
+    {
+      "Claim": "gh:bnakamoto"
+    },
+    {
+      "Claim": "yt:@bnakamoto"
+    },
+    {
+      "Claim": "spout:btn"
+    },
+    {
+      "Claim": "pat:nakamoto"
+    },
+    {
+      "Claim": "mdon:@btn@mastodon.social"
+    },
+    {
+      "Claim": "med:btn"
+    },
+    {
+      "Claim": "ss:bnakamoto"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "f1fc6e4b218005b4c69c727a",
+    "Timestamp": "2023-04-05T21:37:55Z",
+    "Signature": "79af250eec5bd6d9cd7f2593119cf5d0fa15a2fabcd4363dabd18219554c80a5098f88d5df98f31c8561e8fab4fd32b6eb725f2a3af90dd740b3466bc95e5ca419ee51f3cc850276395f818fada5d37dbee88bef7bf55aff9aa0164b5828baa4cac434d84f7717fc7816dc40bad591798d0eebd66073857723e5707e4fdd0edccacb7badf00f5f408ddc380850fcf5635b6707dd21bf6a3c3531162b5211d81cf73d218883b0d8118564a60d5a1b8120a493e3240d83efd01656cd5d1782377f6d3ab0c24664121d6a630ca10e89af6e5e55066dae0fce663f04165fc96ff78e16cf915501fe7bc08c9382018b3bf2fd1a5a18a2dee0abf00dc5fab903b21314"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "80fcf00a697ef6f8fd8304062f66d256431a60201a44259f04f7836caf3fcad6",
+  "ContentToHash": "v1|gh:bnakamoto,mdon:@btn@mastodon.social,med:btn,pat:nakamoto,spout:btn,ss:bnakamoto,t:btn,yt:@bnakamoto|2023-04-05T21:13:50Z"
+}
